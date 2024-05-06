@@ -1,6 +1,4 @@
-DiscordFreeStickers
-
-Free Stickers in action.
+DiscordFreeStickers - BetterDiscord
 
 Use nitro stickers and all of your Discord server stickers for free with this plugin!
 
